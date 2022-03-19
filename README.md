@@ -1,5 +1,7 @@
 ### OLA! EU SOU O EDUARDO!👋
-![22b22287602523 5dbd29081561d](https://user-images.githubusercontent.com/38886580/159102536-7e9fbe50-18b7-429e-afe6-a4112e1b949c.gif)
+
+![22b22287602523 5dbd29081561d](https://user-images.githubusercontent.com/38886580/159103190-6b1a1a58-25c3-4588-bc23-c48a7b0da363.gif)
+
 
 - 📖 Estudando: Python, java, JavaScripts, php, HTML, CSS e TypeScript   
 - 📫 Contate-me: eduslug93@gmail.com
