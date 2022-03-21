@@ -1,10 +1,6 @@
 ### OLA! seja bem vindo!👋
 Meu nome é Eduardo Irineu dos santos 👋
 
-![22b22287602523 5dbd29081561d](https://user-images.githubusercontent.com/38886580/159103270-97e07b4d-1a4e-4d37-a372-5306fa9efbab.gif)
-
-
-
 - 📖 Estudando: Python, java, JavaScripts, php, HTML, CSS e TypeScript   
 - 📫 Contate-me: eduslug93@gmail.com
 - 😄 pronouns: Ele/Dele
