@@ -43,7 +43,7 @@ Meu nome é Eduardo Irineu dos santos 👋
   
 📫 How to reach me **eduslug93@gmail.com**
   
-  
+🔗 my Linkedlin https://www.linkedin.com/in/eduardo-irineu-134375220/  
   </div>
 
  <h3 align="center">Connect with me:</h3>
