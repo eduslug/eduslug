@@ -1,9 +1,9 @@
-### OLA! seja bem vindo!👋
+###  </h1>OLA! seja bem vindo!👋 </h1>
 Meu nome é Eduardo Irineu dos santos 👋
 
 - 📖 Estudando: Python, java, JavaScripts, php, HTML, CSS e TypeScript   
 - 📫 Contate-me: eduslug93@gmail.com
-- 😄 pronouns: Ele/Dele
+- 🔗https://www.linkedin.com/in/eduardo-irineu-134375220/
 
 
 <h1 align="center">Welcome to my profile 👋</h1>
