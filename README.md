@@ -1,5 +1,5 @@
 ### OLA! seja bem vindo!👋
-Meu nome é Eduardo Irineu dos santos 👋
+Meu nome é Eduardo Irineu dos santos
 
 - 📖 Estudando: Python, java, JavaScripts, php, HTML, CSS e TypeScript   
 - 📫 Contate-me: eduslug93@gmail.com
