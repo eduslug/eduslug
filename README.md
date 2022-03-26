@@ -1,4 +1,4 @@
-### OLA! seja bem vindo
+### OLA! seja bem vindo!
 Meu nome é Eduardo Irineu dos santos
 
 - 📖 Estudando: Python, java, JavaScripts, php, HTML, CSS e TypeScript   
