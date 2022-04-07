@@ -1,7 +1,7 @@
 ### OLA! seja bem vindo!
 Meu nome é Eduardo Irineu dos santos
 
-- 📖 Estudando: Python, java, JavaScripts, php, HTML, CSS e TypeScript   
+- 📖 Estudando: Python, java, JavaScripts, HTML, CSS e node  
 - 📫 Contate-me: eduslug93@gmail.com
 - 🔗https://www.linkedin.com/in/eduardo-irineu-134375220/
 
