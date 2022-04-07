@@ -1,14 +1,12 @@
-### OLA! seja bem vindo!
-Meu nome é Eduardo Irineu dos santos
 
-- 📖 Estudando: Python, java, JavaScripts, HTML, CSS e node  
-- 📫 Contate-me: eduslug93@gmail.com
+<h3 > hello world🌍 seja bem vindo!</h3>
+
+
+- 📫 Contate-me: eduslug93@gmail.com <br>
 - 🔗https://www.linkedin.com/in/eduardo-irineu-134375220/
+- 🔗 my Linkedlin https://www.linkedin.com/in/eduardo-irineu-134375220/  
 
-
-<h1 align="center">Welcome to my profile 👋</h1>
-
-<h3 align="center">Full stack developer-Em Andamento</h3>
+<h1 align="center">Eduardo Irineu dos santos nascimento <br> Desenvolvedor full stack jr</h1>
 
  <div align="center">
 
@@ -23,12 +21,45 @@ Meu nome é Eduardo Irineu dos santos
    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-
+   
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+   
   </span>
 
  </div>
 
 </br>
+
+<h3 align="center"> 🚀 Frameworks e tecnologias</h3>
+
+<div align="center">
+
+ <span>
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
+
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
+
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>  
+
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+
+ </span>
+
+</div>
+
+</br>
+
+<div align="center">
+
 
 <div align="center">
 
@@ -43,59 +74,13 @@ Meu nome é Eduardo Irineu dos santos
  <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
- 
-📫 How to reach me **eduslug93@gmail.com**
-  
-🔗 my Linkedlin https://www.linkedin.com/in/eduardo-irineu-134375220/  
-  </div>
-
- <h3 align="center">Connect with me:</h3>
-
   
 
  <p align="left">
 
-  
-
-   <a class="url" href="https://api.whatsapp.com/send?phone=55 (82) 988716845/" img> 
-
-    Whatsapp
-
-
-<h3 align="center"> 🚀 Frameworks </h3>
-
-<div align="center">
-
- <span>
-
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
-
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
-
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  
-
-
- </span>
-
-</div>
-
-</br>
-
-<div align="center">
-
+ 
  <span>  
 
-
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
-
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>  
-
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 
  </span>
 
