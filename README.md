@@ -3,7 +3,6 @@
 
 
 - 📫 Contate-me: eduslug93@gmail.com <br>
-- 🔗https://www.linkedin.com/in/eduardo-irineu-134375220/
 - 🔗 my Linkedlin https://www.linkedin.com/in/eduardo-irineu-134375220/  
 
 <h1 align="center">Eduardo Irineu dos santos nascimento <br> Desenvolvedor full stack jr</h1>
