@@ -1,14 +1,10 @@
 
 <h3 > hello world🌍 seja bem vindo!</h3>
 
-  <div align="center">
-      ![marioProgramer](https://user-images.githubusercontent.com/38886580/162539384-3a464e66-80c4-441e-b7bb-15ea4466bcdd.gif)
- <div>
 
-
-
-  📫 Contate-me: eduslug93@gmail.com <br>
-  🔗 my Linkedlin https://www.linkedin.com/in/eduardo-irineu-134375220/  
+  
+ -📫 Contate-me: eduslug93@gmail.com <br>
+ -🔗 my Linkedlin https://www.linkedin.com/in/eduardo-irineu-134375220/  
 
 
 
