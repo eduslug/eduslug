@@ -8,7 +8,7 @@
 
 
 
-<h1 align="center">Eduardo Irineu dos santos nascimento <br> Desenvolvedor full stack jr</h1>
+<h1 align="center">Eduardo Irineu dos santos nascimento <br> Desenvolvedor Font-end</h1>
 
  <div align="center">
 
