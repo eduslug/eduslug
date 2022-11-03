@@ -4,7 +4,7 @@
 
   <h4>
  -📫 Contate-me: eduslug93@gmail.com <br>
- -🔗 my Linkedlin https://www.linkedin.com/in/eduardo-irineu 
+ -🔗 my Linkedlin www.linkedin.com/in/eduardoirineu
 
 
 
