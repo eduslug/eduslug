@@ -1,5 +1,5 @@
 
-<h1 > hello world🌍 seja bem vindo!</h1>
+<h1 > hello world🌍 </h1>
 <h3>
 Hello, my name is Eduaro and I am a front-end developer. I work creating visually appealing and easy-to-use web experiences using modern technologies React
 </h3>
