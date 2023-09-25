@@ -1,13 +1,14 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
-<h1 > hello world🌍 welcome!</h1>
-<h3>
-Hello, my name is Eduaro and I am a front-end developer. I work creating visually appealing and easy-to-use web experiences using modern technologies React
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Eduardo+;I';I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-  <h4>
- -📫 Contate-me: eduslug93@gmail.com <br>
- -🔗 my Linkedlin www.linkedin.com/in/eduardoirineu
+<div align="center">  
 
+<div align="center"> 
+<a href="https://www.instagram.com/eduardo_sanns1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "eduslug93@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/eduardoirineu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
 
 <h1 align="center">Eduardo Irineu dos santos nascimento <br> Desenvolvedor Font-end</h1>
@@ -85,7 +86,6 @@ Hello, my name is Eduaro and I am a front-end developer. I work creating visuall
 
  <p align="left">
 
- 
  <span>  
 
 
@@ -98,3 +98,19 @@ Hello, my name is Eduaro and I am a front-end developer. I work creating visuall
 </br>
 
 <div align="center">
+
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{eduslug}/count.svg" /></p> 
+<br>
+</div>
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+
+
+
