@@ -1,17 +1,37 @@
 
-<h1 align='center'> olá mundo🌍 seja bem-vindo! </ h1 >
- 
- <h3> 
-  
--📫 Entre em contato comigo: eduslug93@gmail.com
+<div align="center">
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+</div>   
+   <h1 align="center">Hello 👋, I'm Eduardo</h1>
+<h3 align="center">Full Stack Developer</h3>
+<hr>
+<p align="center">
+    <a href="https://www.linkedin.com/in/eduardoirineu/" target="_blank"><img align="center"
+             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="eduardo" height="30" width="40" /></a>
 
--🔗 meu Linkedlin https://www.linkedin.com/in/eduardo-irineu  
 </h3>
- 
-<h1 align="center">Eduardo Irineu dos santos nascimento <br> Desenvolvedor Font-end</h1>
+
+<h3> 
+  
+- 🔭 I’m currently pursuing **Full Stack Web Developmen**
+
+- 💬 Ask me about **React, Next.JS, TypeScript, Node, Nest, Docker,AWS**
+
+- 📫 How to reach me **eduslug93@gmail.com**
+
+- 📃 Look at my [Resume](https://docs.google.com/document/d/1Vf4UJjInamnX4ooUX4LuknS5YxSvVKBb/edit?usp=drive_link&ouid=105937089505831017194&rtpof=true&sd=true) 
+
+- 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/eduslug)
+
+- ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
+
+
+ <br> 
+
 
  <div align="center">
-
+<h3 align="center"> 🚀 Frameworks e tecnologias</h3>
   <span>
 
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -33,7 +53,7 @@
 
 </br>
 
-<h3 align="center"> 🚀 Frameworks e tecnologias</h3>
+<br>
 
 <div align="center">
 
@@ -56,6 +76,8 @@
   <img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   
   <img src = "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
   
  </span>
 
