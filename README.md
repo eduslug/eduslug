@@ -16,7 +16,7 @@
   
 - 🔭 I’m currently pursuing **Full Stack Web Developmen**
 
-- 💬 Ask me about **React, Next.JS, TypeScript, Node, Nest, Docker,AWS**
+- 💬 Ask me about **Flutter,Dart,SQL, React, Next.JS, TypeScript, Node, Nest, Docker,AWS**
 
 - 📫 How to reach me **eduslug93@gmail.com**
 
