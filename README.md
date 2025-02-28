@@ -3,7 +3,7 @@
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 </div>   
    <h1 align="center">Hello 👋, I'm Eduardo</h1>
-<h3 align="center">Front-end Developer</h3>
+<h3 align="center">Software Engineer</h3>
 <hr>
 <p align="center">
     <a href="https://www.linkedin.com/in/eduardoirineu/" target="_blank"><img align="center"
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **eduslug93@gmail.com**
 
-- 📃 Look at my [Resume](https://docs.google.com/document/d/1Vf4UJjInamnX4ooUX4LuknS5YxSvVKBb/edit?usp=drive_link&ouid=105937089505831017194&rtpof=true&sd=true) 
+- 📃 Look at my [Resume](https://docs.google.com/document/d/1qRuV_MNFI0sofzhEswiZtNYQjywxTN0V/edit) 
 
 - 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/eduslug)
 
